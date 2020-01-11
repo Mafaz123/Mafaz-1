@@ -26,6 +26,10 @@ public void verifySsize() {
 	Assert.assertTrue(bp.elementFound(dp.getSsize()));
 }
 			
+
+public void numberofsize(){
+
+
 		}
 	
 
